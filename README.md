@@ -1,4 +1,4 @@
-# test 1
+# test 1 abstract class in Java
 
 Design a class hierarchy rooted in the class Employee that includes > subclasses for HourlyEmployee and SalaryEmployee. 
 The attributes > shared in common by these classes include the name and job title of > the employee, 
